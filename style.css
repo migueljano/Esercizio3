@@ -1,7 +1,16 @@
-body {
+html, body {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    /* width: 50vw;
+    margin: auto; */
+}
+main {
     width: 50vw;
-    margin: auto;
+    margin: auto
+}
+
+
+header {
+    text-align: center;
 }
 .img {
    
@@ -29,9 +38,7 @@ h1 {
 .container .Factura {
     color: red;
 }
-.Fresh {
-    color:  #107777;
-}
+
  .Ingre {
     padding-bottom: 10px;
     border-bottom: 1px solid skyblue;
