@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 50vw;
+    margin: auto;
+}
+.img {
+   
+    width: 300px;
+}
+.inizio {
+    border-top: 2px solid #FFDB7F;
+    background: #FFFBF1;
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+}
+.Sally {
+    opacity: 0.4;
+    text-align: center;
+}
+
+.container {
+    border-left: 1.5px solid #FFDB7F;
+    padding-left: 10px;
+}
+.container .Factura {
+    color: red;
+}
+.Fresh {
+    color:  #107777;
+}
+ .Ingre {
+    padding-bottom: 10px;
+    border-bottom: 1px solid skyblue;
+ }
+ .Fresh :link {
+    color: #107777;
+ }
+ .Method {
+    border-bottom: 1px solid skyblue;
+    padding-bottom: 10px;
+ }
